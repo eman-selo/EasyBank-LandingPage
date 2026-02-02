@@ -1,19 +1,22 @@
-Project Name: EasyBank
-A responsive web page project built to consolidate and demonstrate my skills in core web technologies. Originally started as a foundation project, it has been recently updated to enhance its responsiveness and interactivity.
+This is a solution to the Easybank landing page challenge on Frontend Mentor. The project focuses on building a modern, professional, and fully responsive financial services interface.
 
-🚀 Features & Updates:
-Fully Responsive: Optimized for all screen sizes (Mobile, Tablet, and Desktop) using CSS media queries.
+🚀 Key Technical Implementation:
+Dynamic Navigation: Implemented a functional mobile menu using JavaScript that toggles icons (Hamburger/Close) and includes a smooth overlay effect.
 
-Interactivity: Added JavaScript components to improve user experience (UX).
+Modern Layouts: Utilized CSS Grid for the features and articles sections, and Flexbox for the navigation and footer.
 
-Clean Code: Focused on writing semantic HTML and organized CSS.
+Responsive Images: Managed complex background positioning (Desktop vs. Mobile backgrounds) using CSS absolute positioning and media queries.
+
+UI/UX Focus: Implemented hover states for buttons (gradients) and social icons to enhance user interaction.
 
 🛠️ Technologies Used:
-HTML5
+Semantic HTML5
 
-CSS3
+Custom CSS Properties (Variables)
 
-JavaScript (ES6+)
+JavaScript (DOM Manipulation)
 
-💡 Learning Journey:
-This project marks the beginning of my web development journey. It was a great opportunity to transition from learning theory to building a functional, aesthetic, and mobile-friendly interface.
+Mobile-First Workflow
+
+💡 What I Learned:
+This project was a great exercise in handling complex background images and ensuring that the navigation remains accessible on smaller screens. Refactoring the CSS to handle the transition between the desktop bg-intro-desktop.svg and the mobile version was a key highlight of this project.
