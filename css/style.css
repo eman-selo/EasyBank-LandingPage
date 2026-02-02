@@ -199,7 +199,7 @@ header {
   font-size: 2.5rem;
 }
 
-.content-flex {
+.content-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 30px;
@@ -297,7 +297,7 @@ footer {
 
 @media (max-width: 1024px) {
   .features-content,
-  .content-flex {
+  .content-grid {
     grid-template-columns: repeat(2, 1fr);
   }
   .text-content h1 {
@@ -406,7 +406,7 @@ footer {
     margin-top: -10px;
   }
   .features-content,
-  .content-flex {
+  .content-grid {
     grid-template-columns: 1fr;
     justify-items: center;
   }
